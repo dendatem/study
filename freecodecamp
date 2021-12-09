@@ -3,3 +3,7 @@
    новый код*/
    
 var myName;
+
+// Setup
+var a;
+var a = 7;
